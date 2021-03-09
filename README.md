@@ -1,4 +1,4 @@
-<h2> Hi, I'm smithmyname! <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jason! <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="50"></h2>
 
 <p><em>Founder at <a href="http://www.unb.br">Halcyon Games, LLC</a><img src="https://giphy.com/gifs/transparent-halcyon-halcyonforsyth-YquNaregDuI1X2mURG" width="30"></br> 
 </em></p>
